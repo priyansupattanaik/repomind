@@ -1,0 +1,4 @@
+litellm==1.55.9
+langgraph==0.2.60
+chromadb==0.5.23
+sentence-transformers==3.3.1
